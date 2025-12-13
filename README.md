@@ -26,7 +26,7 @@ Ejecuté 24 casos de prueba de regresión sobre funcionalidades clave.
 
 Detecté y reporté 4 bugs documentados en Jira.
 
-🔗 [Repositorio(https://github.com/mgonzalezgve/urban-routes-regresion-tests)]
+🔗 [[Repositorio](https://github.com/mgonzalezgve/urban-routes-regresion-tests)]]
 
 Validé resultados esperados vs. reales para asegurar estabilidad del sistema.
 ---
