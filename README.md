@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Github%202.jpeg" alt="GitHub Banner" />
+</p>
+
 # 👩‍💻 Mariana González  
 ### QA Tester | Ex Docente | Aprendiz constante
 
