@@ -43,7 +43,7 @@ Definí clases de equivalencia y valores límite para campos críticos.
 
 Diseñé casos de prueba basados en requisitos y fórmulas de cálculo.
 
-🔗 [Repositorio(https://github.com/mgonzalezgve/urban-routes-clases--equivalencia-funcionalidades)]
+🔗 [Repositorio](https://github.com/mgonzalezgve/urban-routes-clases--equivalencia-funcionalidades)
 ---
 #🧪 Proyecto 3 — Urban Routes (Pruebas funcionales y de diseño)
 
@@ -58,7 +58,7 @@ Diseñé y ejecuté casos de prueba para el botón “Reservar” y el flujo com
 
 Reporté errores en Jira tras pruebas en múltiples entornos.
 
-🔗 [Repositorio(https://github.com/mgonzalezgve/proyecto3-urban-routes-testing)]
+🔗 [Repositorio](https://github.com/mgonzalezgve/proyecto3-urban-routes-testing)
 ---
 #⭐ Proyecto 4 — Urban Grocers (Pruebas de API)
 
@@ -75,7 +75,7 @@ Validé status codes, respuestas y manejo de errores.
 
 Reporté bugs en Jira con evidencia reproducible.
 
-🔗 [Repositorio(https://github.com/mgonzalezgve/Proyecto4-urban-grocers-API-testing)]
+🔗 [Repositorio](https://github.com/mgonzalezgve/Proyecto4-urban-grocers-API-testing)
 
 [![](https://visitcount.itsvg.in/api?id=mgonzalezgve&icon=0&color=0)](https://visitcount.itsvg.in)
 
