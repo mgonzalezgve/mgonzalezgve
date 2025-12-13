@@ -76,6 +76,7 @@ Diseñé y ejecuté casos de prueba en Postman.
 Validé status codes, respuestas y manejo de errores.
 
 Reporté bugs en Jira con evidencia reproducible.
+
 🔗 [Repositorio](https://github.com/mgonzalezgve/Proyecto4-urban-grocers-API-testing)
 
 
