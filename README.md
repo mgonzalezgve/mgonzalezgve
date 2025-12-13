@@ -15,7 +15,7 @@ Actualmente estoy desarrollando mi portafolio de QA, explorando pruebas funciona
 
 ## Proyectos destacados:
 
-##🧪 Proyecto 1 — Urban Routes (Pruebas de regresión)
+## 🧪 Proyecto 1 — Urban Routes (Pruebas de regresión)
 
 Urban Routes (Aplicación web de transporte)
 📌 Descripción: Aplicación que calcula rutas, duración y precio de viajes según el tipo de transporte seleccionado.
@@ -30,7 +30,7 @@ Detecté y reporté 4 bugs documentados en Jira.
 
 Validé resultados esperados vs. reales para asegurar estabilidad del sistema.
 ---
-##🧪 Proyecto 2 — Urban Routes (Análisis y diseño de pruebas)
+## 🧪 Proyecto 2 — Urban Routes (Análisis y diseño de pruebas)
 
 Urban Routes (Funcionalidad de compartir automóvil)
 📌 Descripción: Análisis de requisitos y diseño de pruebas para la función de compartir automóvil.
@@ -41,11 +41,12 @@ Elaboré mapas mentales y diagramas de flujo para visualizar la lógica del sist
 
 Definí clases de equivalencia y valores límite para campos críticos.
 
+🔗 [Repositorio](https://github.com/mgonzalezgve/urban-routes-clases--equivalencia-funcionalidades)
+
 Diseñé casos de prueba basados en requisitos y fórmulas de cálculo.
 
-🔗[Repositorio](https://github.com/mgonzalezgve/urban-routes-clases--equivalencia-funcionalidades)
 ---
-##🧪 Proyecto 3 — Urban Routes (Pruebas funcionales y de diseño)
+## 🧪 Proyecto 3 — Urban Routes (Pruebas funcionales y de diseño)
 
 Urban Routes (Reserva de automóviles)
 📌 Descripción: Pruebas de diseño y funcionalidad del proceso de reserva en distintos navegadores y resoluciones.
@@ -56,11 +57,12 @@ Creé listas de comprobación para diseño y funcionalidad del formulario.
 
 Diseñé y ejecuté casos de prueba para el botón “Reservar” y el flujo completo.
 
+🔗 [Repositorio](https://github.com/mgonzalezgve/proyecto3-urban-routes-testing)
+
 Reporté errores en Jira tras pruebas en múltiples entornos.
 
-🔗 [Repositorio](https://github.com/mgonzalezgve/proyecto3-urban-routes-testing)
 ---
-##⭐ Proyecto 4 — Urban Grocers (Pruebas de API)
+## ⭐ Proyecto 4 — Urban Grocers (Pruebas de API)
 
 Urban Grocers (API de e-commerce)
 📌 Descripción: Validación de la API para la gestión de kits y servicios de entrega.
@@ -74,8 +76,8 @@ Diseñé y ejecuté casos de prueba en Postman.
 Validé status codes, respuestas y manejo de errores.
 
 Reporté bugs en Jira con evidencia reproducible.
-
 🔗 [Repositorio](https://github.com/mgonzalezgve/Proyecto4-urban-grocers-API-testing)
+
 
 [![](https://visitcount.itsvg.in/api?id=mgonzalezgve&icon=0&color=0)](https://visitcount.itsvg.in)
 
