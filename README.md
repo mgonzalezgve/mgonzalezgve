@@ -43,7 +43,7 @@ Definí clases de equivalencia y valores límite para campos críticos.
 
 Diseñé casos de prueba basados en requisitos y fórmulas de cálculo.
 
-🔗 [Repositorio](https://github.com/mgonzalezgve/urban-routes-clases--equivalencia-funcionalidades)
+🔗[Repositorio](https://github.com/mgonzalezgve/urban-routes-clases--equivalencia-funcionalidades)
 ---
 #🧪 Proyecto 3 — Urban Routes (Pruebas funcionales y de diseño)
 
