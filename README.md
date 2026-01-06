@@ -19,7 +19,7 @@ Actualmente estoy desarrollando mi portafolio de QA, explorando pruebas funciona
 
 ## Proyectos destacados:
 
-## 🧪 Proyecto 1 — Urban Routes (Pruebas de regresión)
+## Proyecto 1 — Urban Routes (Pruebas de regresión)
 
 Urban Routes (Aplicación web de transporte)
 📌 Descripción: Aplicación que calcula rutas, duración y precio de viajes según el tipo de transporte seleccionado.
@@ -34,7 +34,7 @@ Detecté y reporté 4 bugs documentados en Jira.
 
 Validé resultados esperados vs. reales para asegurar estabilidad del sistema.
 ---
-## 🧪 Proyecto 2 — Urban Routes (Análisis y diseño de pruebas)
+## Proyecto 2 — Urban Routes (Análisis y diseño de pruebas)
 
 Urban Routes (Funcionalidad de compartir automóvil)
 📌 Descripción: Análisis de requisitos y diseño de pruebas para la función de compartir automóvil.
@@ -50,7 +50,7 @@ Definí clases de equivalencia y valores límite para campos críticos.
 Diseñé casos de prueba basados en requisitos y fórmulas de cálculo.
 
 ---
-## 🧪 Proyecto 3 — Urban Routes (Pruebas funcionales y de diseño)
+## Proyecto 3 — Urban Routes (Pruebas funcionales y de diseño)
 
 Urban Routes (Reserva de automóviles)
 📌 Descripción: Pruebas de diseño y funcionalidad del proceso de reserva en distintos navegadores y resoluciones.
@@ -66,7 +66,7 @@ Diseñé y ejecuté casos de prueba para el botón “Reservar” y el flujo com
 Reporté errores en Jira tras pruebas en múltiples entornos.
 
 ---
-## ⭐ Proyecto 4 — Urban Grocers (Pruebas de API)
+## Proyecto 4 — Urban Grocers (Pruebas de API)
 
 Urban Grocers (API de e-commerce)
 📌 Descripción: Validación de la API para la gestión de kits y servicios de entrega.
@@ -83,6 +83,21 @@ Reporté bugs en Jira con evidencia reproducible.
 
 🔗 [Repositorio](https://github.com/mgonzalezgve/Proyecto4-urban-grocers-API-testing)
 
+---
+## Proyecto 6 — Urban Lunch (Pruebas de Aplicación Móvil)
+
+Urban Lunch (Aplicación móvil Android)
+📌 Descripción: Pruebas funcionales de la primera versión de la aplicación móvil Urban.Lunch para pedidos de comida y puntos de recogida.
+🛠 Tecnologías utilizadas: Android Studio, Emulador Android, Pruebas Manuales, Jira.
+🔍 Contribución:
+
+Analicé los requisitos funcionales de la aplicación móvil.
+Diseñé una checklist de pruebas para validar flujos principales.
+Ejecuté pruebas en emulador y dispositivo Android.
+Registré resultados de prueba (APROBADO / NO APROBADO).
+Reporté bugs en Jira con pasos para reproducir y evidencias.
+
+🔗 [Repositorio](https://github.com/mgonzalezgve/Proyecto-6-Pruebas-de-Aplicaciones-M-viles-Urban-Lunch)
 
 [![](https://visitcount.itsvg.in/api?id=mgonzalezgve&icon=0&color=0)](https://visitcount.itsvg.in)
 
