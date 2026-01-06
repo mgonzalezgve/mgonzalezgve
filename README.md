@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner2.png" alt="GitHub Banner" />
+  <img src="banner2.0.png" alt="GitHub Banner" />
 </p>
 
 # 👩‍💻 Mariana González  
